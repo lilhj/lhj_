@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+data/
+faiss_index/
+node_modules/
+*.pyc
+*.db

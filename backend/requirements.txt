@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+pypdf
+sqlalchemy
+python-multipart
+httpx
