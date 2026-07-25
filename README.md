@@ -156,4 +156,10 @@ rag-project/
 
 ---
 
+## 👤 作者
+
+**天才选手** — [@lilhj](https://github.com/lilhj)
+
+---
+
 *Built with FastAPI + LangChain + FAISS + Ollama + React*
